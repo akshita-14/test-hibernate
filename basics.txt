@@ -1,0 +1,3 @@
+HIBERNATE :
+persistency is the process of storing, manipulating and retriving the data from the database in an effective manner.
+
